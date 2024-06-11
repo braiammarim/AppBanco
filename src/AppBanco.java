@@ -13,7 +13,7 @@ public class AppBanco {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("1. Criar uma conta");
+        System.out.println("1. Criar uma conta:");
         System.out.println("2. Consultar uma conta");
         System.out.println("3. Sacar");
         System.out.println("4. Depositar");
