@@ -1,18 +1,5 @@
-## Getting Started
+## Aplicativo de Banco
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O código tem o intuito de representar de maneira simples um aplicativo de banco, com saques, depósitos e etc.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Foi feito na faculdade durante a aula de POO em Java. Com esse projeto foi possível colocar em prática alguns fundamentos da linguagem de progamação java e da programação orientada a objetos
